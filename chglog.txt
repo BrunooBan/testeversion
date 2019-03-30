@@ -1,12 +1,12 @@
-[+] Comando PASS agora È possivel alterar a senha do prompt atravÈs do comando /pass
+[+] Comando PASS agora √© possivel alterar a senha do prompt atrav√©s do comando /pass
 [+] Comando GETPROXY gera um arquivo com um proxy list
 [+] Comando GETSTRING gere uma string aleatoria. /getstring tamanho da string
-[+] Comando GETIP recebe o ip de um determinado endereÁo. /getip endereÁo
-[+] Comando ALIVE saiba se algum site est· fora do ar ou n„o
+[+] Comando GETIP recebe o ip de um determinado endere√ßo. /getip endere√ßo
+[+] Comando ALIVE saiba se algum site est√° fora do ar ou n√£o
 [+] Comando NOTEPAD bloco de notas personalizado
-[+] Adicionados comandos ao /pass
-	- [+] /passcancel cancele a alteraÁ„o de senha
-	- [+] /passreset resete a senha para o padr„o
+[+] Adicionados comandos ao PASS:
+	- [+] /passcancel cancele a altera√ß√£o de senha
+	- [+] /passreset resete a senha para o padr√£o
 [+] Adicionados comandos internos ao Bloco de Notas:
  	- [+] opacity: [1, 2, 3, 4] (altera a opacidade do bloco de notas)
 	- [+] font-size: [1, 2, 3, 4] (altera o tamanho da font do bloco de notas)
