@@ -1,8 +1,8 @@
 [+] Comando PASS agora é possivel alterar a senha do prompt através do comando /pass
 [+] Comando GETPROXY gera um arquivo com um proxy list
-[+] Comando GETSTRING gere uma string aleatoria. /getstring tamanho da string
+[+] Comando GETSTRING gera uma string aleatoria. /getstring tamanho da string
 [+] Comando GETIP recebe o ip de um determinado endereço. /getip endereço
-[+] Comando ALIVE saiba se algum site está fora do ar ou não
+[+] Comando ALIVE saiba se algum site está fora do ar ou não. /alive endereço
 [+] Comando NOTEPAD bloco de notas personalizado
 [+] Adicionados comandos ao PASS:
 	- [+] /passcancel cancele a alteração de senha
